@@ -62,7 +62,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>01/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Entrega de talleres</td>
 	</tr>
 	<tr>
-		<td>08/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td><br>Parcial segundo corte</td>
+		<td>08/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
 		<td>15/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Entrega de notas segundo corte</td>
@@ -110,36 +110,36 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td rowspan="2">Primer (19.5%)</td>
 		<td>Parcial</td>
-		<td>12.675%</td>
+		<td>12</td>
 		<td>26/02/2024</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
-		<td>6.825%</td>
-		<td>09/02/2024<br>16/02/2024<br>23/02/2024</td>
+		<td>18%</td>
+		<td>04/03/2024</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (19.5%)</td>
 		<td>Parcial</td>
-		<td>12.675%</td>
-		<td>12/04/2024</td>
+		<td>12%</td>
+		<td>08/04/2024</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
-		<td>6.825%</td>
-		<td>22/03/2024<br>05/04/2024<br></td>
+		<td>18%</td>
+		<td>15/04/2024<br></td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (20%)</td>
-		<td>Examen final</td>
-		<td>12%</td>
-		<td>24/05/2024</td>
+		<td>Proyecto</td>
+		<td>24%</td>
+		<td>27/05/2024</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
-		<td>8%</td>
-		<td>03/05/2024<br>10/05/2024<br>17/05/2024</td>
+		<td>16%</td>
+		<td>27/05/2024</td>
 	</tr>
 </table>
 
