@@ -23,16 +23,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>22/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
 	<tr>
-		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Introducción a expresión gráfica, manejo de instrumentos, líneas y construcción de figuras geométricas</td>
+		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Introducción a expresión gráfica</td>
 	</tr>
 	<tr>
-		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Representaciones gráficas de objetos y proyecciones</td>
+		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>manejo de instrumentos, líneas y construcción de figuras geométricas</td>
 	</tr>
 	<tr>
-		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Vistas y acotado</td>
+		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Representaciones gráficas de objetos y proyecciones </td>
 	</tr>
 	<tr>
-		<td>19/02/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Entrega de talleres</td>
+		<td>19/02/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Vistas y acotado</td>
 	</tr>
 	<tr>
 		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Parcial primer corte</td><!--semana de parciales del primer corte-->
@@ -59,7 +59,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>25/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
-		<td>01/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Entrega de talleres</td>
+		<td>01/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Ensamblaje de elementos SolidWorks</td>
 	</tr>
 	<tr>
 		<td>08/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
@@ -77,7 +77,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>22/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Ensamblaje de elementos SolidWorks y proyecto final</td>
+		<td>22/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización proyecto final</td>
 	</tr>
 	<tr>
 		<td>29/04/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de proyecto</td>
@@ -188,11 +188,15 @@ Nota del curso = (0.3)*NotaCorte1 + (0.3)*NotaCorte2 + (0.4)*NotaCorte3
 
 <ul>
 	<li> Computador 💻</li>
-	<li> Visual Studio Code</li>
-	<li> Raspberry Pi 3B/3B+/4B con Raspbian</li>
-	<img src="https://www.cnx-software.com/wp-content/uploads/2019/06/Raspberry-Pi-4-vs-Pi-3-Large.jpg" alt="Imagen de Raspberrys Pi 3B y 4B" caption="RPi 3B vs RPi 4B tomado de: https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/10777Image1.jpg"/>
-	<li> STM-32</li>
-	<img src="https://www.codeinsideout.com/blog/stm32/stm32-nucleo-boards.png" alt="Imagen de Raspberrys Pi 3B y 4B" caption="Hola"/>
-	<li> IMU (MPU6050 y MPU9250)</li>
-	<img src="https://memo.soarcloud.com/wp-content/uploads/2020/07/mpu6050-mpu9250.jpg" alt="Imagen de Raspberrys Pi 3B y 4B" caption="Hola"/>
+	<li> SolidWorks</li>
+	<li> Escuadras de 45 y 60, regla y transportador</li>
+	<img src="https://fasaworld.com/blog/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTEyTDE3ZXhtN0wuanBn" alt="Escuadras" caption="Hola"/>
+	<li> Compás</li>
+	<img src="https://vpiera.com/131294-large_default/faber-castell-compas-de-ajuste-rapido-con-alargadera-extensible-sin-pieza-de-tinta-en-estuche-de-plastico-.jpg" alt="compás" caption="Hola"/>
+	<li> Lápiz 2H y HB</li>
+	<img src="https://falabella.scene7.com/is/image/FalabellaCO/gsc_122920232_3475133_2?wid=800&hei=800&qlt=70" alt="lápices" caption="Hola"/>
+	<li> Bloc DIN A4 sin rótulo</li>
+	<img src="https://artesco.com.co/wp-content/uploads/2023/07/Block-Din-A4-Blanco-Nessan-057-0010-000055.png" alt="bloc din a4" caption="Hola"/>
+
+
 </ul>
