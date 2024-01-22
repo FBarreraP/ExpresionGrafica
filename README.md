@@ -153,15 +153,11 @@ Nota del curso = (0.3)*NotaCorte1 + (0.3)*NotaCorte2 + (0.4)*NotaCorte3
 		<li> Fin de clases: Quince (15) minutos antes de la hora final definida de la clase ⏱️</li>
 		<li> Respeto en clase 🤝</li>
 		<li> No presto mi computador para presentar laboratorios, talleres y/o proyectos 🤦‍♂️</li>
-		<li> Prohibido el uso de celular en quices y clase 📵</li>
-		<li> Permitidas las salidas al baño 🚻 y a recibir llamadas 📲, en los quices se debe dejar el celular en el puesto para salir al baño</li>
+		<li> Prohibido el uso de celular en quices, parciales y clase 📵</li>
+		<li> Permitidas las salidas al baño 🚻 y a recibir llamadas 📲, en los quices y parciales se debe dejar el celular en el puesto para salir al baño</li>
 		<li> Si no dejan dictar la clase, pasan al tablero a dar la clase o doy la clase por vista 😤</li>
 		<li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/ExpresionGrafica </li>
-		<li> Los laboratorios y el proyecto consistirán únicamente de montaje y podrán ser realizados en grupos de máximo 2 estudiantes 🧍‍♂️🧍‍♀️</li>
-		<li> Los montajes realizados en protoboard no son aceptados con jumpers, por tanto, deben ser realizados con cable UTP y no son compartidos, es decir, un montaje por grupo 🤷‍♂️</li>
-		<li> Los laboratorios y proyecto se calificarán con rúbricas de 0.0 a 5.0 con intervalo de 1.0 y las cuales tendrán una fecha fija de entrega y con orden de entrega definida por el profesor 💥</li> 
-		<li> Los parciales y el examen final serán solucionados en hoja examen 📄</li> 
-		<li> Uso obligatorio de bata blanca en el laboratorio de robótica 🥼</li>
+		<li> Los laboratorios o talleres serán ser realizados individualmente 🧍‍♂️</li>
 	</ul>
 
 <h4>Observaciones de reglamento estudiantil</h4>
