@@ -108,7 +108,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Metodología</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Primer (19.5%)</td>
+		<td rowspan="2">Primer (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
 		<td>26/02/2024</td>
@@ -120,7 +120,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>04/03/2024</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Segundo (19.5%)</td>
+		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
 		<td>08/04/2024</td>
@@ -131,7 +131,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>15/04/2024<br></td>
 	</tr>
 	<tr>
-		<td rowspan="3">Tercer (20%)</td>
+		<td rowspan="3">Tercer (40%)</td>
 		<td>Proyecto</td>
 		<td>24%</td>
 		<td>27/05/2024</td>
@@ -157,7 +157,7 @@ Nota del curso = (0.3)*NotaCorte1 + (0.3)*NotaCorte2 + (0.4)*NotaCorte3
 		<li> Permitidas las salidas al baño 🚻 y a recibir llamadas 📲, en los quices y parciales se debe dejar el celular en el puesto para salir al baño</li>
 		<li> Si no dejan dictar la clase, pasan al tablero a dar la clase o doy la clase por vista 😤</li>
 		<li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/ExpresionGrafica </li>
-		<li> Los laboratorios o talleres serán ser realizados individualmente 🧍‍♂️</li>
+		<li> Los laboratorios, talleres y parciales serán ser realizados individualmente 🧍‍♂️</li>
 	</ul>
 
 <h4>Observaciones de reglamento estudiantil</h4>
