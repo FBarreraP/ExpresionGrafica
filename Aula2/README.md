@@ -79,18 +79,31 @@ El plegado de formatos consiste en doblar por secciones hasta igualar el tamaño
 
 - Formato A1 (horizontal)
 
+![plegado A1 horizontal](image-7.png)
+
 - Formato A1 (vertical)
 
+![plegado A1 vertical](image-8.png)
 
+<h5>Formato A2</h5>
 
-<h4></h4>
-<h4></h4>
-<h4></h4>
-<h4></h4>
-<h4></h4>
+- Formato A2 (horizontal)
 
+![plegado A2 horizontal](image-9.png)
 
+- Formato A2 (vertical)
 
+![plegado A2 vertical](image-10.png)
+
+<h5>Formato A3</h5>
+
+- Formato A3 (horizontal)
+
+![plegado A3 horizontal](image-11.png)
+
+- Formato A3 (vertical)
+
+![plegado A3 vertical](image-12.png)
 
 <h3>Letra técnica (NTC 2527 Y NTC 2528)</h3>
 
