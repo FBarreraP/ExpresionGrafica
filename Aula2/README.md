@@ -38,10 +38,9 @@ El rotulo se debe colocar en la posición inferior derecha del formato, teniendo
 
 <img src="https://iessantabarbara.es/departamentos/fisica/tecnologia/webquest/cotas/Refuerzo/dibujos/nor5.GIF" alt="Rótulos" caption="Hola"/>
 Fuente: https://iessantabarbara.es/departamentos/fisica/tecnologia/webquest/cotas/Refuerzo/dibujos/nor5.GIF
+
 <img src="http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos/image001.png" alt="Rótulo_Despiece" caption="Hola"/>
 Fuente: http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos/image001.png
-
-
 
 <h3>Rótulo (NTC 1914)</h3>
 
@@ -133,6 +132,19 @@ Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecn
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h3>Letra técnica (NTC 2527 Y NTC 2528)</h3>
+
+La letra técnica es una caligrafía técnica que realza la calidad (precisión, claridad y limpieza) del trabajo en general, siendo que las letras y los números deben trazarse de acuerdo con las técnicas.
+
+Toda escritura normalizada debe ser:
+
+<ul>
+    <li>Legible (claridad y lectura rápida)</li>
+    <li>Homogénea (caracteres reglados en forma, tamaño, etc.)</li>
+    <li>Reproducible  (apta para producirse por diferentes medios)</li>
+    <li>Deben distinguirse con claridad todos los caracteres.</li>
+    <li>La altura en proporción con papel y dibujo.</li>
+    <li>Mayúsculas para titulares y encabezamientos.</li>
+</ul>
 
 <h3>Escalas</h3>
 
