@@ -8,6 +8,8 @@ La expresión gráfica permite representar objetos detallando las característic
 
 ![Boceto, croquis y plano](image.png)
 
+Fuente: http://tec.amordedioscadiz.org/tec2/tipos_de_dibujos.html 
+
 <h3>Normas</h3>
 
 Las normas son el conjunto de reglas como requisito indispensable para el proceso (diseño, desarrollo, fabricación y calidad) de un producto y/o servicio; las cuales se establecen en un documento aprobado por un organismo de Normalización, con el fin de estandarizar cada detalle del proceso.
@@ -23,19 +25,21 @@ Las normas son identificadas generalmente por siglas del Organismo que lo aprueb
 </ul>
 
 <img src="https://image3.slideserve.com/5535840/normas-t-cnicas-colombianas-ntc1-l.jpg" alt="normas NTC" caption="Hola"/>
+Fuente: https://image3.slideserve.com/5535840/normas-t-cnicas-colombianas-ntc1-l.jpg
 
 <h3>Formatos (ISO 5457)</h3>
 
 Los formatos definen el tamaño del papel y tienen diferentes series (A, B o C) según la norma ISO. La principal justificación de los diferentes formatos es desperdiciar el mínimo espacio posible.
 
 <img src="https://mvblog.me/wp-content/uploads/2012/04/formatoserieA.jpg" alt="Formatos" caption="Hola"/>
+Fuente: https://mvblog.me/wp-content/uploads/2012/04/formatoserieA.jpg
 
 El rotulo se debe colocar en la posición inferior derecha del formato, teniendo en cuenta que la dirección de este debe ser acorde a la del dibujo.
 
 <img src="https://iessantabarbara.es/departamentos/fisica/tecnologia/webquest/cotas/Refuerzo/dibujos/nor5.GIF" alt="Rótulos" caption="Hola"/>
-
+Fuente: https://iessantabarbara.es/departamentos/fisica/tecnologia/webquest/cotas/Refuerzo/dibujos/nor5.GIF
 <img src="http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos/image001.png" alt="Rótulo_Despiece" caption="Hola"/>
-
+Fuente: http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos/image001.png
 
 
 
@@ -57,11 +61,18 @@ El rotulo debe contener uno o más rectángulos adyacentes, los cuales pueden es
 El plegado de formatos consiste en doblar por secciones hasta igualar el tamaño de los formatos a archivar en bolsa o en cuaderno; comúnmente es hasta A4. El recuadro del dibujo es a=10mm para formatos A0, A1 y A2, y a=5mm para formatos A3, A4 y A5
 
 ![plegado](image-2.png)
+
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
+
 ![Margenesformato](image-3.png)
+
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h4>Plegado modular (archivar en bolsa)</h4>
 
 ![plegado modular](image-4.png)
+
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h4>Encuadernación (archivar en carpeta)</h4>
 
@@ -70,11 +81,13 @@ El plegado de formatos consiste en doblar por secciones hasta igualar el tamaño
 - Formato A0 (horizontal)
 
 ![plegado A0 horizontal](image-5.png)
+
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A0 (vertical)
 
 ![plegado A0 vertical](image-6.png)
+
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h5>Formato A1</h5>
@@ -82,11 +95,13 @@ Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecn
 - Formato A1 (horizontal)
 
 ![plegado A1 horizontal](image-7.png)
+
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A1 (vertical)
 
 ![plegado A1 vertical](image-8.png)
+
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h5>Formato A2</h5>
@@ -94,11 +109,13 @@ Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecn
 - Formato A2 (horizontal)
 
 ![plegado A2 horizontal](image-9.png)
+
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A2 (vertical)
 
 ![plegado A2 vertical](image-10.png)
+
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h5>Formato A3</h5>
@@ -106,11 +123,13 @@ Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecn
 - Formato A3 (horizontal)
 
 ![plegado A3 horizontal](image-11.png)
+
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A3 (vertical)
 
 ![plegado A3 vertical](image-12.png)
+
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h3>Letra técnica (NTC 2527 Y NTC 2528)</h3>
