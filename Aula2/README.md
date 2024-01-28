@@ -46,14 +46,15 @@ Fuente: http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos
 
 El rotulo debe contener uno o más rectángulos adyacentes, los cuales pueden estar subdivididos en cajas para la inserción de información específica. La información debe agruparse en:
 
-<ul>
-	<li>Zona de identificación: Contiene el número de registro o identificación (a), el titulo del dibujo (b) y el nombre del propietario legal del dibujo (c)</li>
-    ![Rótulos](image-1.png)
-    <li>Zona de información adicional:</li>
-        1. Ítems indicativos: Para evitar errores de interpretación del método de presentación. Se debe indicar el método de proyección, la escala principal, la unidad de dimensión lineal.
-        2. Ítems técnicos: Incluye la textura de las superficies, tolerancias geométricas, valores de tolerancias generales y otras normas de este campo.
-        3. Ítems administrativos: Tamaño de papel, fecha de primera emisión del dibujo, símbolo de revisión, fecha y otra información administrativa.
-</ul>
+- Zona de identificación: Contiene el número de registro o identificación (a), el titulo del dibujo (b) y el nombre del propietario legal del dibujo (c)
+![Rótulos](image-1.png)
+Fuente: https://es.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
+
+- Zona de información adicional:
+    1. Ítems indicativos: Para evitar errores de interpretación del método de presentación. Se debe indicar el método de proyección, la escala principal, la unidad de dimensión lineal.
+    2. Ítems técnicos: Incluye la textura de las superficies, tolerancias geométricas, valores de tolerancias generales y otras normas de este campo.
+    3. Ítems administrativos: Tamaño de papel, fecha de primera emisión del dibujo, símbolo de revisión, fecha y otra información administrativa.
+
 
 <h3>Plegado de formatos (NTC 1687)</h3>
 
@@ -168,5 +169,8 @@ Fuente: https://www.picuino.com/es/_images/dibujo-escalas.png
 
 <h2>Escalas normalizadas</h2>
 
+Las siguiente escalas normalizadas son las más utilizadas en los planos técnicos con el objetivo de facilitar las lecturas. Sin embargo, en algunas aplicaciones, como en Ingeniería Civil (construcción de edificios) se utilizan otras escalas intermedias (1:50 o 1:20).
 
+![Escalas normalizadas](image-15.png)
+Fuente: https://www.picuino.com/es/dibujo-escalas.html
 
