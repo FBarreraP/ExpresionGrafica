@@ -70,40 +70,48 @@ El plegado de formatos consiste en doblar por secciones hasta igualar el tamaño
 - Formato A0 (horizontal)
 
 ![plegado A0 horizontal](image-5.png)
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A0 (vertical)
 
 ![plegado A0 vertical](image-6.png)
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h5>Formato A1</h5>
 
 - Formato A1 (horizontal)
 
 ![plegado A1 horizontal](image-7.png)
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A1 (vertical)
 
 ![plegado A1 vertical](image-8.png)
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h5>Formato A2</h5>
 
 - Formato A2 (horizontal)
 
 ![plegado A2 horizontal](image-9.png)
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A2 (vertical)
 
 ![plegado A2 vertical](image-10.png)
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h5>Formato A3</h5>
 
 - Formato A3 (horizontal)
 
 ![plegado A3 horizontal](image-11.png)
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A3 (vertical)
 
 ![plegado A3 vertical](image-12.png)
+Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h3>Letra técnica (NTC 2527 Y NTC 2528)</h3>
 
