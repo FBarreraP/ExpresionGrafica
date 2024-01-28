@@ -41,7 +41,43 @@ El rotulo se debe colocar en la posición inferior derecha del formato, teniendo
 
 <h3>Rótulo (NTC 1914)</h3>
 
+El rotulo debe contener uno o más rectángulos adyacentes, los cuales pueden estar subdivididos en cajas para la inserción de información específica. La información debe agruparse en:
+
+<ul>
+	<li>Zona de identificación: Contiene el número de registro o identificación (a), el titulo del dibujo (b) y el nombre del propietario legal del dibujo (c)</li>
+    ![Rótulos](image-1.png)
+    <li>Zona de información adicional:</li>
+        1. Ítems indicativos: Para evitar errores de interpretación del método de presentación. Se debe indicar el método de proyección, la escala principal, la unidad de dimensión lineal.
+        2. Ítems técnicos: Incluye la textura de las superficies, tolerancias geométricas, valores de tolerancias generales y otras normas de este campo.
+        3. Ítems administrativos: Tamaño de papel, fecha de primera emisión del dibujo, símbolo de revisión, fecha y otra información administrativa.
+</ul>
+
 <h3>Plegado de formatos (NTC 1687)</h3>
+
+El plegado de formatos consiste en doblar por secciones hasta igualar el tamaño de los formatos a archivar en bolsa o en cuaderno; comúnmente es hasta A4. El recuadro del dibujo es a=10mm para formatos A0, A1 y A2, y a=5mm para formatos A3, A4 y A5
+
+![plegado](image-2.png)
+![Margenesformato](image-3.png)
+
+<h4>Plegado modular (archivar en bolsa)</h4>
+
+![plegado modular](image-4.png)
+
+<h4>Encuadernación (archivar en carpeta)</h4>
+
+<ul>
+	<li>Formato A0 (horizontal)</li>
+	<li>Formato A0 (vertical)</li>
+</ul>
+
+<h4></h4>
+<h4></h4>
+<h4></h4>
+<h4></h4>
+<h4></h4>
+
+
+
 
 <h3>Letra técnica (NTC 2527 Y NTC 2528)</h3>
 
