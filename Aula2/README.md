@@ -26,6 +26,19 @@ Las normas son identificadas generalmente por siglas del Organismo que lo aprueb
 
 <h3>Formatos (ISO 5457)</h3>
 
+Los formatos definen el tamaño del papel y tienen diferentes series (A, B o C) según la norma ISO. La principal justificación de los diferentes formatos es desperdiciar el mínimo espacio posible.
+
+<img src="https://mvblog.me/wp-content/uploads/2012/04/formatoserieA.jpg" alt="Formatos" caption="Hola"/>
+
+El rotulo se debe colocar en la posición inferior derecha del formato, teniendo en cuenta que la dirección de este debe ser acorde a la del dibujo.
+
+<img src="https://iessantabarbara.es/departamentos/fisica/tecnologia/webquest/cotas/Refuerzo/dibujos/nor5.GIF" alt="Rótulos" caption="Hola"/>
+
+<img src="http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos/image001.png" alt="Rótulo_Despiece" caption="Hola"/>
+
+
+
+
 <h3>Rótulo (NTC 1914)</h3>
 
 <h3>Plegado de formatos (NTC 1687)</h3>
