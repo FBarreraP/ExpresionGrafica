@@ -148,7 +148,7 @@ Toda escritura normalizada debe ser:
 <img src="https://3.bp.blogspot.com/-rcbVMxgvgs4/UXGjuFMDAdI/AAAAAAAAAI0/kHz2ZFHj8t4/s1600/ima1.jpg" alt="Texto_Letra_Técnica" caption="Hola"/>
 Fuente: https://3.bp.blogspot.com/-rcbVMxgvgs4/UXGjuFMDAdI/AAAAAAAAAI0/kHz2ZFHj8t4/s1600/ima1.jpg
 
-<img src="https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jpg" alt="Letra_Técnica" caption="Hola"/>
+![Letra técnica](image-14.png)
 Fuente: https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jpg
 
 <h3>Escalas</h3>
