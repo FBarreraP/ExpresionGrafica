@@ -68,9 +68,11 @@ El plegado de formatos consiste en doblar por secciones hasta igualar el tamaño
 <h5>Formato A0</h5>
 
 - Formato A0 (horizontal)
+
 ![plegado A0 horizontal](image-5.png)
 
 - Formato A0 (vertical)
+
 ![plegado A0 vertical](image-6.png)
 
 <h5>Formato A1</h5>
