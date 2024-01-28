@@ -145,11 +145,26 @@ Toda escritura normalizada debe ser:
     <li>La altura en proporción con papel y dibujo.</li>
     <li>Mayúsculas para titulares y encabezamientos.</li>
 </ul>
+<img src="https://3.bp.blogspot.com/-rcbVMxgvgs4/UXGjuFMDAdI/AAAAAAAAAI0/kHz2ZFHj8t4/s1600/ima1.jpg" alt="Texto_Letra_Técnica" caption="Hola"/>
+Fuente: https://3.bp.blogspot.com/-rcbVMxgvgs4/UXGjuFMDAdI/AAAAAAAAAI0/kHz2ZFHj8t4/s1600/ima1.jpg
 
 <img src="https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jpg" alt="Letra_Técnica" caption="Hola"/>
 Fuente: https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jpg
 
 <h3>Escalas</h3>
+
+La escala es la relación entre el tamaño del objeto real y el tamaño del objeto dibujado, la cual se debe escribir en el rotulo del formato.
+
+<ul>
+    <li>Escala natural: El tamaño del objeto real y el tamaño del objeto dibujado son iguales (1:1)</li>
+    <li>El tamaño del objeto real es muy grande y por tanto, el tamaño del objeto dibujado debe reducirse (ej: 1:2)</li>
+    <li>Escala de ampliación: El tamaño del objeto real es muy pequeño y por tanto, el tamaño del objeto dibujado debe ampliarse (ej: 2:1)</li>
+</ul>
+
+𝐸𝑠𝑐𝑎𝑙𝑎=(𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑑𝑖𝑏𝑢𝑗𝑎𝑑𝑜)/(𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑟𝑒𝑎𝑙)
+
+![Escalas](image-13.png)
+Fuente: https://www.picuino.com/es/_images/dibujo-escalas.png
 
 <h2>Escalas normalizadas</h2>
 
