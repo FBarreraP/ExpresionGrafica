@@ -146,8 +146,8 @@ Toda escritura normalizada debe ser:
     <li>Mayúsculas para titulares y encabezamientos.</li>
 </ul>
 
-<img src="https://lh6.googleusercontent.com/-2SMUvIt545Q/TWkgGiV2VsI/AAAAAAAAACs/d56teLoELGo/s400/LETRA+TECNICA.jpg" alt="Rótulo_Despiece" caption="Hola"/>
-Fuente: https://lh6.googleusercontent.com/-2SMUvIt545Q/TWkgGiV2VsI/AAAAAAAAACs/d56teLoELGo/s400/LETRA+TECNICA.jpg
+<img src="https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jpg" alt="Letra_Técnica" caption="Hola"/>
+Fuente: https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jpg
 
 <h3>Escalas</h3>
 
