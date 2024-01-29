@@ -169,7 +169,7 @@ La escala es la relación entre el tamaño del objeto real y el tamaño del obje
 
 <math>𝐸𝑠𝑐𝑎𝑙𝑎=(𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑑𝑖𝑏𝑢𝑗𝑎𝑑𝑜)/(𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑟𝑒𝑎𝑙)</math>
 
-x = \frac{-b\pm\sqrt{b^{2}-4ac}}{2a}
+$$f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}$$
 
 ![Escalas](Imagenes/image-13.png)
 
