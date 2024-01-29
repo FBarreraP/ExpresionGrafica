@@ -167,7 +167,7 @@ La escala es la relación entre el tamaño del objeto real y el tamaño del obje
     <li><b>Escala de ampliación:</b> El tamaño del objeto real es muy pequeño y por tanto, el tamaño del objeto dibujado debe ampliarse (ej: 2:1)</li>
 </ul>
 
-$$𝐸𝑠𝑐𝑎𝑙𝑎=\frac{𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑑𝑖𝑏𝑢𝑗𝑎𝑑𝑜}{𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑟𝑒𝑎𝑙}$$
+$$𝐸𝑠𝑐𝑎𝑙𝑎=\frac{𝑇𝑎𝑚𝑎ñ𝑜_𝑑𝑒𝑙_𝑜𝑏𝑗𝑒𝑡𝑜_𝑑𝑖𝑏𝑢𝑗𝑎𝑑𝑜}{𝑇𝑎𝑚𝑎ñ𝑜_𝑑𝑒𝑙_𝑜𝑏𝑗𝑒𝑡𝑜_𝑟𝑒𝑎𝑙}$$
 
 ![Escalas](Imagenes/image-13.png)
 
