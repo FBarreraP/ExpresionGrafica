@@ -162,9 +162,9 @@ Fuente: https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jp
 La escala es la relación entre el tamaño del objeto real y el tamaño del objeto dibujado, la cual se debe escribir en el rotulo del formato.
 
 <ul>
-    <li>Escala natural: El tamaño del objeto real y el tamaño del objeto dibujado son iguales (1:1)</li>
-    <li>El tamaño del objeto real es muy grande y por tanto, el tamaño del objeto dibujado debe reducirse (ej: 1:2)</li>
-    <li>Escala de ampliación: El tamaño del objeto real es muy pequeño y por tanto, el tamaño del objeto dibujado debe ampliarse (ej: 2:1)</li>
+    <li><b>Escala natural:</b> El tamaño del objeto real y el tamaño del objeto dibujado son iguales (1:1)</li>
+    <li><b>Escala de reducción:</b> El tamaño del objeto real es muy grande y por tanto, el tamaño del objeto dibujado debe reducirse (ej: 1:2)</li>
+    <li><b>Escala de ampliación:</b> El tamaño del objeto real es muy pequeño y por tanto, el tamaño del objeto dibujado debe ampliarse (ej: 2:1)</li>
 </ul>
 
 <math>𝐸𝑠𝑐𝑎𝑙𝑎=(𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑑𝑖𝑏𝑢𝑗𝑎𝑑𝑜)/(𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑟𝑒𝑎𝑙)</math>
