@@ -6,7 +6,7 @@ Esta clase consiste en comprender los conceptos básicos del curso, tales como: 
 
 La expresión gráfica permite representar objetos detallando las características de los mismos (forma, tamaño, grosores, entre otros). Algunos tipos de dibujos más utilizados son Boceto, Croquis y Plano.
 
-![Boceto, croquis y plano](image.png)
+![Boceto, croquis y plano](Imagenes/image.png)
 
 Fuente: http://tec.amordedioscadiz.org/tec2/tipos_de_dibujos.html 
 
@@ -50,7 +50,7 @@ El rotulo debe contener uno o más rectángulos adyacentes, los cuales pueden es
 
 - Zona de identificación: Contiene el número de registro o identificación (a), el titulo del dibujo (b) y el nombre del propietario legal del dibujo (c)
 
-![Rótulos](image-1.png)
+![Rótulos](Imagenes/image-1.png)
 
 Fuente: https://es.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
@@ -64,17 +64,17 @@ Fuente: https://es.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecn
 
 El plegado de formatos consiste en doblar por secciones hasta igualar el tamaño de los formatos a archivar en bolsa o en cuaderno; comúnmente es hasta A4. El recuadro del dibujo es a=10mm para formatos A0, A1 y A2, y a=5mm para formatos A3, A4 y A5
 
-![plegado](image-2.png)
+![plegado](Imagenes/image-2.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
-![Margenesformato](image-3.png)
+![Margenesformato](Imagenes/image-3.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 <h4>Plegado modular (archivar en bolsa)</h4>
 
-![plegado modular](image-4.png)
+![plegado modular](Imagenes/image-4.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
@@ -84,13 +84,13 @@ Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecn
 
 - Formato A0 (horizontal)
 
-![plegado A0 horizontal](image-5.png)
+![plegado A0 horizontal](Imagenes/image-5.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A0 (vertical)
 
-![plegado A0 vertical](image-6.png)
+![plegado A0 vertical](Imagenes/image-6.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
@@ -98,13 +98,13 @@ Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecn
 
 - Formato A1 (horizontal)
 
-![plegado A1 horizontal](image-7.png)
+![plegado A1 horizontal](Imagenes/image-7.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A1 (vertical)
 
-![plegado A1 vertical](image-8.png)
+![plegado A1 vertical](Imagenes/image-8.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
@@ -112,13 +112,13 @@ Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecn
 
 - Formato A2 (horizontal)
 
-![plegado A2 horizontal](image-9.png)
+![plegado A2 horizontal](Imagenes/image-9.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A2 (vertical)
 
-![plegado A2 vertical](image-10.png)
+![plegado A2 vertical](Imagenes/image-10.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
@@ -126,13 +126,13 @@ Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecn
 
 - Formato A3 (horizontal)
 
-![plegado A3 horizontal](image-11.png)
+![plegado A3 horizontal](Imagenes/image-11.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Formato A3 (vertical)
 
-![plegado A3 vertical](image-12.png)
+![plegado A3 vertical](Imagenes/image-12.png)
 
 Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
@@ -154,7 +154,7 @@ Toda escritura normalizada debe ser:
 Fuente: https://3.bp.blogspot.com/-rcbVMxgvgs4/UXGjuFMDAdI/AAAAAAAAAI0/kHz2ZFHj8t4/s1600/ima1.jpg
 
 
-![Letra técnica](image-14.png)
+![Letra técnica](Imagenes/image-14.png)
 Fuente: https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jpg
 
 <h3>Escalas</h3>
@@ -169,7 +169,7 @@ La escala es la relación entre el tamaño del objeto real y el tamaño del obje
 
 <math>𝐸𝑠𝑐𝑎𝑙𝑎=(𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑑𝑖𝑏𝑢𝑗𝑎𝑑𝑜)/(𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑟𝑒𝑎𝑙)</math>
 
-![Escalas](image-13.png)
+![Escalas](Imagenes/image-13.png)
 
 Fuente: https://www.picuino.com/es/_images/dibujo-escalas.png
 
@@ -177,7 +177,7 @@ Fuente: https://www.picuino.com/es/_images/dibujo-escalas.png
 
 Las siguiente escalas normalizadas son las más utilizadas en los planos técnicos con el objetivo de facilitar las lecturas. Sin embargo, en algunas aplicaciones, como en Ingeniería Civil (construcción de edificios) se utilizan otras escalas intermedias (1:50 o 1:20).
 
-![Escalas normalizadas](image-15.png)
+![Escalas normalizadas](Imagenes/image-15.png)
 
 Fuente: https://www.picuino.com/es/dibujo-escalas.html
 
