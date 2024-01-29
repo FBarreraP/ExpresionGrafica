@@ -34,10 +34,12 @@ Los formatos definen el tamaño del papel y tienen diferentes series (A, B o C) 
 <img src="https://mvblog.me/wp-content/uploads/2012/04/formatoserieA.jpg" alt="Formatos" caption="Hola"/>
 Fuente: https://mvblog.me/wp-content/uploads/2012/04/formatoserieA.jpg
 
+
 El rotulo se debe colocar en la posición inferior derecha del formato, teniendo en cuenta que la dirección de este debe ser acorde a la del dibujo.
 
 <img src="https://iessantabarbara.es/departamentos/fisica/tecnologia/webquest/cotas/Refuerzo/dibujos/nor5.GIF" alt="Rótulos" caption="Hola"/>
 Fuente: https://iessantabarbara.es/departamentos/fisica/tecnologia/webquest/cotas/Refuerzo/dibujos/nor5.GIF
+
 
 <img src="http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos/image001.png" alt="Rótulo_Despiece" caption="Hola"/>
 Fuente: http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos/image001.png
@@ -47,7 +49,9 @@ Fuente: http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos
 El rotulo debe contener uno o más rectángulos adyacentes, los cuales pueden estar subdivididos en cajas para la inserción de información específica. La información debe agruparse en:
 
 - Zona de identificación: Contiene el número de registro o identificación (a), el titulo del dibujo (b) y el nombre del propietario legal del dibujo (c)
+
 ![Rótulos](image-1.png)
+
 Fuente: https://es.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
 
 - Zona de información adicional:
@@ -149,6 +153,7 @@ Toda escritura normalizada debe ser:
 <img src="https://3.bp.blogspot.com/-rcbVMxgvgs4/UXGjuFMDAdI/AAAAAAAAAI0/kHz2ZFHj8t4/s1600/ima1.jpg" alt="Texto_Letra_Técnica" caption="Hola"/>
 Fuente: https://3.bp.blogspot.com/-rcbVMxgvgs4/UXGjuFMDAdI/AAAAAAAAAI0/kHz2ZFHj8t4/s1600/ima1.jpg
 
+
 ![Letra técnica](image-14.png)
 Fuente: https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jpg
 
@@ -165,6 +170,7 @@ La escala es la relación entre el tamaño del objeto real y el tamaño del obje
 <math>𝐸𝑠𝑐𝑎𝑙𝑎=(𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑑𝑖𝑏𝑢𝑗𝑎𝑑𝑜)/(𝑇𝑎𝑚𝑎ñ𝑜 𝑑𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑜 𝑟𝑒𝑎𝑙)</math>
 
 ![Escalas](image-13.png)
+
 Fuente: https://www.picuino.com/es/_images/dibujo-escalas.png
 
 <h2>Escalas normalizadas</h2>
@@ -172,5 +178,6 @@ Fuente: https://www.picuino.com/es/_images/dibujo-escalas.png
 Las siguiente escalas normalizadas son las más utilizadas en los planos técnicos con el objetivo de facilitar las lecturas. Sin embargo, en algunas aplicaciones, como en Ingeniería Civil (construcción de edificios) se utilizan otras escalas intermedias (1:50 o 1:20).
 
 ![Escalas normalizadas](image-15.png)
+
 Fuente: https://www.picuino.com/es/dibujo-escalas.html
 
