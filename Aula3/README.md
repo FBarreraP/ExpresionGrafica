@@ -1,46 +1,95 @@
 <h1>Aula 3</h1>
 
-Esta clase consiste en comprender las diferentes representaciones gráficas y proyecciones en tres dimensiones de objetos
+Esta clase consiste en aprender a utilizar los instrumentos y también a conocer los diferentes tipos de línas y la construcción de figuras geométricas.
 
-<h2>Representaciones gráficas</h2>
+<h2>Manejo de instrumentos, líneas y construcción de figuras geométricas</h2>
 
-Las representaciones gráficas de objetos permite:
+<h3>Tipos de minas</h3>
 
-1. Representar un objeto (3 dimensiones) en un plano (2 dimensiones)
-2. Representar un plano (2 dimensiones) en un objeto (3 )
+![Minas1](image.png)
 
-![sistemas de representación](image.png)
+Mina dura (H) “hard” : Los lápices de grafito que llevan una H son de rastro suave, de un gris claro a un gris medio. A mayor número, mayor dureza.  Van desde H hasta 9H
 
-<h3>Proyecciones</h3>
+Los trazos realizados con estos lápices se pueden borrar fácilmente, se recomienda un trazo suave.
 
-El sistema de representación axonométrica, a través de proyección ortogonal con diferentes perspectivas o proyecciones (ángulos).
+Mina Blanda (B) “Black”: Los lápices de grafito con la letra B tienen una mina más blanda. Pueden llegar a producir negros muy intensos. Normalmente sus graduaciones van desde el B al 9B.  
 
-![sistema axonométrico](image-2.png)
+Se usa para crear todo tipo de sombras. Los trazos son difíciles de borrar, y la mina tiene un desgaste rápido
 
-<h4>Proyección ortogonal</h4>
+![Minas2](image-1.png)
 
-La proyección ortogonal es la representación de un objeto en el espacio en tres planos diferentes X, Y y Z.
+![Afilado de lápiz](image-2.png)
 
-![Proyección](image-1.png)
+![Afilado de lápiz 2](image-3.png)
 
-<h5>Proyección isométrica</h5>
+<h3>Instrumentos</h3>
 
-La proyección isométrica es una representación axonométrica ortogonal de un objeto, teniendo en cuenta que la inclinación entre los tres ejes es de 120°; así mismo, con respecto a la horizontal, la inclinación de las líneas oblicuas es de 30°
+![Reglas](image-4.png)
 
-![isométrica](image-3.png)
+![Manejo de escuadras](image-5.png)
+
+![Regla T](image-6.png)
+
+![Ángulos](image-7.png)
+
+![Manejo de escuadras](image-8.png)
+
+![Manejo de escuadras 2](image-9.png)
+
+![Manejo de escuadras 3](image-10.png)
+
+![Manejo de escuadras 4](image-11.png)
+
+![Transportador](image-12.png)
+
+![Compás](image-14.png)
+
+![Compás 2](image-13.png)
+
+<h3>Líneas</h3>
+
+Las líneas son una sucesión de puntos entre dos extremos, con diferentes formas, así como: curvas, rectas horizontales y verticales, entre otras; las cuales sirven para asociar, unir, rodear, soportar o cortar superficies de objetos 2D y 3D.
+
+![Líneas](image-15.png)
+
+<h4>Líneas rectas</h4>
+
+![Rectas](image-16.png)
+
+![Líneas2](image-17.png)
+
+<h4>figuras geométricas</h4>
+
+![figuras geométricas](image-18.png)
 
 <h3>Ejercicio 1</h3>
 
-Dibujar el solido a escala 1:1 (dimensiones en mm) en una plancha formato A4 (vertical) con manejo de instrumentos con su respectivo rotulo en letra técnica
+Trazar líneas rectas paralelas separadas 4 mm en una plancha formato A4 (vertical) a mano alzada, utilizando 2 Tipos de minas
 
-![Ejercicio1](image-4.png)
+![Ejercicio 1](image-19.png)
 
 Fuente: Germán Vargas, presentación Manejo de instrumentos, 2019
 
 <h3>Ejercicio 2</h3>
 
-Dibujar el solido a escala 1:1 (dimensiones en mm) en una plancha formato A4 (vertical) con manejo de instrumentos con su respectivo rotulo en letra técnica.
+Trazar líneas rectas paralelas separadas 4 mm en una plancha formato A4 (vertical) con manejo de instrumentos, utilizando 2 Tipos de minas
 
-![Ejercicio2](image-5.png)
+![Ejercicio 2](image-20.png)
+
+Fuente: Germán Vargas, presentación Manejo de instrumentos, 2019
+
+<h3>Ejercicio 3</h3>
+
+Realizar los trazos separados como se indica en cada imagen en una plancha formato A4 (vertical) a mano alzada, utilizando 2 Tipos de minas
+
+![Ejercicio 3](image-21.png)
+
+Fuente: Germán Vargas, presentación Manejo de instrumentos, 2019
+
+<h3>Ejercicio 4</h3>
+
+Realizar los trazos separados como se indica en cada imagen en una plancha formato A4 (vertical) con manejo de instrumentos, utilizando 2 Tipos de minas
+
+![alt text](image-22.png)
 
 Fuente: Germán Vargas, presentación Manejo de instrumentos, 2019
