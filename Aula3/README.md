@@ -1,6 +1,6 @@
 <h1>Aula 3</h1>
 
-Esta clase consiste en aprender a utilizar los instrumentos y también a conocer los diferentes tipos de línas y la construcción de figuras geométricas.
+Esta clase consiste en aprender a utilizar los instrumentos y también a conocer los diferentes tipos de líneas y la construcción de figuras geométricas.
 
 <h2>Manejo de instrumentos, líneas y construcción de figuras geométricas</h2>
 
