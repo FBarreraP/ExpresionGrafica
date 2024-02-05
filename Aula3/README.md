@@ -61,35 +61,3 @@ Fuente: https://es-static.z-dn.net/files/da7/e66a2a18e443a7fcf09b21f4ca73791e.jp
 <h4>figuras geométricas</h4>
 
 ![figuras geométricas](image-18.png)
-
-<h3>Ejercicio 1</h3>
-
-Trazar líneas rectas paralelas separadas 4 mm en una plancha formato A4 (vertical) a mano alzada, utilizando 2 Tipos de minas
-
-![Ejercicio 1](image-19.png)
-
-Fuente: Germán Vargas, presentación Manejo de instrumentos, 2019
-
-<h3>Ejercicio 2</h3>
-
-Trazar líneas rectas paralelas separadas 4 mm en una plancha formato A4 (vertical) con manejo de instrumentos, utilizando 2 Tipos de minas
-
-![Ejercicio 2](image-20.png)
-
-Fuente: Germán Vargas, presentación Manejo de instrumentos, 2019
-
-<h3>Ejercicio 3</h3>
-
-Realizar los trazos separados como se indica en cada imagen en una plancha formato A4 (vertical) a mano alzada, utilizando 2 Tipos de minas
-
-![Ejercicio 3](image-21.png)
-
-Fuente: Germán Vargas, presentación Manejo de instrumentos, 2019
-
-<h3>Ejercicio 4</h3>
-
-Realizar los trazos separados como se indica en cada imagen en una plancha formato A4 (vertical) con manejo de instrumentos, utilizando 2 Tipos de minas
-
-![alt text](image-22.png)
-
-Fuente: Germán Vargas, presentación Manejo de instrumentos, 2019
