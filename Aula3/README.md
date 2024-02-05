@@ -48,8 +48,6 @@ Se usa para crear todo tipo de sombras. Los trazos son difíciles de borrar, y l
 
 Las líneas son una sucesión de puntos entre dos extremos, con diferentes formas, así como: curvas, rectas horizontales y verticales, entre otras; las cuales sirven para asociar, unir, rodear, soportar o cortar superficies de objetos 2D y 3D.
 
-![Líneas](image-15.png)
-
 <img src="https://es-static.z-dn.net/files/da7/e66a2a18e443a7fcf09b21f4ca73791e.jpg" alt="líneas" caption="Hola"/>
 
 Fuente: https://es-static.z-dn.net/files/da7/e66a2a18e443a7fcf09b21f4ca73791e.jpg
