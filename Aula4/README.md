@@ -7,7 +7,7 @@ Esta clase consiste en comprender las diferentes representaciones gráficas y pr
 Las representaciones gráficas de objetos permite:
 
 1. Representar un objeto (3 dimensiones) en un plano (2 dimensiones)
-2. Representar un plano (2 dimensiones) en un objeto (3 )
+2. Representar un plano (2 dimensiones) en un objeto (3 dimensiones)
 
 ![sistemas de representación](image.png)
 
