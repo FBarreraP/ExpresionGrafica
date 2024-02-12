@@ -1,4 +1,4 @@
-<h1>Aula 3</h1>
+<h1>Aula 4</h1>
 
 Esta clase consiste en comprender las diferentes representaciones gráficas y proyecciones en tres dimensiones de objetos
 
