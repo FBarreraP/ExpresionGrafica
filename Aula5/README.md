@@ -48,4 +48,79 @@ Proyección de Tercer Ángulo (ISO A): Representación ortográfica en la que el
 
 ![Características ISO A](image-12.png)
 
-<h2>Acotado</h2>
+<h2>Acotado (NTC 1960)</h2>
+
+Acotar  es  el  proceso  de  anotar,  mediante  líneas,  cifras,  signos  y  símbolos,  las medidas de un objeto, siguiendo una serie de reglas y convencionalismos, establecidos mediante normas.
+
+![Acotado](image-13.png)
+
+- Líneas de cota: Son líneas paralelas a la superficie del objeto de medición, sirven para indicar medidas, se colocan de manera  perpendicular a las aristas, o paralelamente a la dimensión a acotar
+- Cifras de cota: Es un número que indica la magnitud
+- Símbolo de final de cota: Las líneas de cota serán terminadas en sus extremos por un símbolo
+- Líneas auxiliares de cota: Son líneas que parten  del dibujo de forma perpendicular a la superficie a acotar, y limitan la longitud de las líneas de cota. Deben sobresalir ligeramente de las líneas de cota
+
+![Cotas](image-14.png)
+
+Los extremos de las líneas de cota se señalan con flechas cuya longitud es aproximadamente cinco veces la anchura de las aristas del cuerpo, es decir, si se dibujan las aristas visibles con líneas continuas de 0.5 milímetros, la longitud de la flecha será de 2.5 mm. La punta de la flecha forma un ángulo de 15º, aproximadamente.
+
+![Características de cotas](image-15.png)
+
+Símbolos: A la cifra de cota le acompaña un símbolo indicativo de características formales de la pieza, que simplifican su acotación, y en ocasiones permiten reducir el número de vistas necesarias, para definir la pieza.
+
+![Símbolos de cotas](image-16.png)
+
+![Cotas con objetos a escalas](image-17.png)
+
+- Cotas funcionales (F): Son aquellas cotas esenciales, para que la pieza pueda cumplir su función
+
+- Cotas no funcionales (NF): Son aquellas que sirven para la total definición de la pieza, pero no son esenciales para que la pieza cumpla su función.
+
+- Cotas Auxiliar (AUX): Solo para propósitos de información, se deriva de otros valores mostrados sobre el dibujo
+
+![Tipos de cotas](image-18.png)
+
+- Dimensionamiento de cadena: Se utilizara únicamente cuando la acumulación de tolerancias no afecte la funcionalidad de la pieza acotada.
+
+- Dimensionamiento desde una característica común: Acotación a partir de un plano de referencia común
+
+![Dimensionamiento de cotas](image-19.png)
+
+- Dimensionamiento combinado
+
+![Dimensionamiento combinado](image-21.png)
+
+- Dimensionamiento por coordenadas
+
+![Dimensionamiento por coordenadas](image-20.png)
+
+- Característica repetida
+
+![Característica repetida](image-22.png)
+
+- Dimensionamiento de biseles o chaflanes
+
+![Dimensionamiento de biseles](image-24.png)
+
+Los números de cota de longitudes y ángulos, deben leerse desde abajo o desde la derecha cuando se mantiene el dibujo o plano en su posición de fabricación. Se evitará en lo posible acotar dentro del espacio de ángulo rayado de 30º y siempre encima de la línea de cota. 
+
+![Cotas angulares](image-23.png)
+
+<h3>Errores de acotado</h3>
+
+![Error 1](image-25.png)
+
+![Error 2](image-26.png)
+
+![Error 3](image-27.png)
+
+![Medidas de cotas](image-28.png)
+
+![Ejemplos acotado ISO A](image-29.png)
+
+<h3>Ejercicio 1</h3>
+
+Dibujar las vistas (ISO A) del solido a escala 1:1 (dimensiones en mm) en una plancha formato A4 (vertical) con manejo de instrumentos con su respectivo rotulo en letra técnica.
+
+![Ejercicio 1](image-30.png)
+
+Fuente: Germán Vargas, presentación Manejo de instrumentos, 2019
