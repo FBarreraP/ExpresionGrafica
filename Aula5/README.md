@@ -44,7 +44,7 @@ Proyección de Tercer Ángulo (ISO A): Representación ortográfica en la que el
 
 ![Ejemplo](Imagenes/image-10.png)
 
-![Ejemplo](image-11.png)
+![Ejemplo](Imagenes/image-11.png)
 
 ![Características ISO A](Imagenes/image-12.png)
 
