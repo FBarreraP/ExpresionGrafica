@@ -153,6 +153,7 @@ Nota del curso = (0.3)*NotaCorte1 + (0.3)*NotaCorte2 + (0.4)*NotaCorte3
 		<li> Si no dejan dictar la clase, pasan al tablero a dar la clase o doy la clase por vista 😤</li>
 		<li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/ExpresionGrafica </li>
 		<li> Los laboratorios, talleres y parciales serán ser realizados individualmente 🧍‍♂️</li>
+		<li> Quien llegue tarde se adelanta en el tema visto hasta el momento 🏃‍♂️</li>
 	</ul>
 
 <h4>Observaciones de reglamento estudiantil</h4>
