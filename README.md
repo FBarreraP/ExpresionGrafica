@@ -13,88 +13,83 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>TEMAS 🤓</h3>
 
-<h4>Primer corte</h4>
+<h4>Primer corte AMB A</h4>
 
 <table>
 	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>22/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+		<td>22/07/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia e Introducción a expresión gráfica</td>
 	</tr>
 	<tr>
-		<td>29/01/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Introducción a expresión gráfica</td>
+		<td>29/07/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Manejo de instrumentos, líneas y construcción de figuras geométricas</td>
 	</tr>
 	<tr>
-		<td>05/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>manejo de instrumentos, líneas y construcción de figuras geométricas</td>
+		<td>05/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Representaciones gráficas de objetos y proyecciones</td>
 	</tr>
 	<tr>
-		<td>12/02/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Representaciones gráficas de objetos y proyecciones </td>
+		<td>12/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Vistas ISO A e ISO E</td>
 	</tr>
 	<tr>
-		<td>19/02/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Vistas y acotado</td>
+		<td>19/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>26/02/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Parcial primer corte</td><!--semana de parciales del primer corte-->
-	</tr>
+		<td>26/08/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Parcial primer corte</td>
+	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>04/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte</td>
+		<td>02/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte<br>Socialización de proyecto</td>
 	</tr><!--última semana de registro de notas del primer corte-->
-
 </table>
 
-<h4>Segundo corte</h4>
+<h4>Segundo corte AMB A</h4>
 
 <table>
 	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>11/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Diseño de piezas en SolidWorks</td>
+		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Escalas y acotado</td>
 	</tr>
 	<tr>
-		<td>18/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Planos de conjunto en SolidWorks</td>
+		<td>16/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Tolerancias</td>
 	</tr>
 	<tr>
-		<td>25/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
+		<td>23/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Uniones</td>
 	</tr>
 	<tr>
-		<td>01/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Ensamblaje de elementos SolidWorks</td>
+		<td>30/09/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
 	</tr>
 	<tr>
-		<td>08/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
+		<td>07/10/2024</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>15/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Entrega de notas segundo corte</td>
+		<td>14/10/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
 
-<h4>Tercer corte</h4>
+<h4>Tercer corte AMB A</h4>
 
 <table>
 		<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>22/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización proyecto final</td>
+		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Retroalimentación del parcial segundo corte y entrega de notas primer corte<br>Vistas auxiliares y de corte</td>
 	</tr>
 	<tr>
-		<td>29/04/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de proyecto</td>
+		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Ensamblaje de elementos y simulación SolidWorks</td>
 	</tr>
 	<tr>
-		<td>06/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de proyecto</td>
+		<td>04/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>13/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
+		<td>11/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>20/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Desarrollo de proyecto</td>
+		<td>18/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Examen final, entrega de proyecto y entrega de notas finales</td>
 	</tr>
-	<tr>
-		<td>27/05/2024</td> <td>2</td> <td>18</td> <td>18</td> <td>Entrega de notas finales</td>
-	</tr>
-
 </table>
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
