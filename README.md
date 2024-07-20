@@ -76,7 +76,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Retroalimentación del parcial segundo corte y entrega de notas primer corte<br>Vistas auxiliares y de corte</td>
+		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
 	</tr>
 	<tr>
 		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Ensamblaje de elementos y simulación SolidWorks</td>
@@ -106,35 +106,35 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>26/02/2024</td>
+		<td>26/08/2024</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>04/03/2024</td>
+		<td>26/08/2024</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>08/04/2024</td>
+		<td>30/09/2024</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>15/04/2024<br></td>
+		<td>30/09/2024<br></td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (40%)</td>
 		<td>Proyecto</td>
 		<td>24%</td>
-		<td>27/05/2024</td>
+		<td>18/11/2024</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>16%</td>
-		<td>27/05/2024</td>
+		<td>18/11/2024</td>
 	</tr>
 </table>
 
