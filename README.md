@@ -75,7 +75,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
+		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte<br>Vistas auxiliares y de corte</td>
 	</tr>
 	<tr>
 		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Ensamblaje de elementos y simulación SolidWorks</td>
@@ -162,10 +162,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>08/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de proyecto</td>
 	</tr>
 	<tr>
-		<td>15/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de proyecto</td>
+		<td>15/11/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Entrega de proyecto</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>22/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Examen final, entrega de proyecto y entrega de notas finales</td>
+		<td>22/11/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Examen final y entrega de notas finales</td>
 	</tr>
 </table>
 
