@@ -171,6 +171,8 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
 
+<h4>Tercer corte AMB A</h4>
+
 <table>
 	<tr>
 		<td>Corte</td>
@@ -212,6 +214,52 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Quices y/o talleres</td>
 		<td>16%</td>
 		<td>18/11/2024</td>
+	</tr>
+</table>
+
+<h4>Tercer corte AMB B</h4>
+
+<table>
+	<tr>
+		<td>Corte</td>
+		<td>Actividad</td>
+		<td>Porcentaje 💯</td>
+		<td>Fecha</td>
+		<td>Metodología</td>
+	</tr>
+	<tr>
+		<td rowspan="2">Primer (30%)</td>
+		<td>Parcial</td>
+		<td>12%</td>
+		<td>23/08/2024</td>
+		<td rowspan="7">Presencial</td>
+	</tr>
+	<tr>
+		<td>Quices y/o talleres</td>
+		<td>18%</td>
+		<td>23/08/2024</td>
+	</tr>
+	<tr>
+		<td rowspan="2">Segundo (30%)</td>
+		<td>Parcial</td>
+		<td>12%</td>
+		<td>04/10/2024</td>
+	</tr>
+	<tr>
+		<td>Quices y/o talleres</td>
+		<td>18%</td>
+		<td>04/10/2024<br></td>
+	</tr>
+	<tr>
+		<td rowspan="3">Tercer (40%)</td>
+		<td>Proyecto</td>
+		<td>24%</td>
+		<td>22/11/2024</td>
+	</tr>
+	<tr>
+		<td>Quices y/o talleres</td>
+		<td>16%</td>
+		<td>22/11/2024</td>
 	</tr>
 </table>
 
