@@ -157,6 +157,7 @@ Fuente: https://3.bp.blogspot.com/-rcbVMxgvgs4/UXGjuFMDAdI/AAAAAAAAAI0/kHz2ZFHj8
 ![Letra técnica](Imagenes/image-14.png)
 Fuente: https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jpg
 
+<!--
 <h3>Escalas</h3>
 
 La escala es la relación entre el tamaño del objeto real y el tamaño del objeto dibujado, la cual se debe escribir en el rotulo del formato.
@@ -180,4 +181,4 @@ Las siguiente escalas normalizadas son las más utilizadas en los planos técnic
 ![Escalas normalizadas](Imagenes/image-15.png)
 
 Fuente: https://www.picuino.com/es/dibujo-escalas.html
-
+-->
