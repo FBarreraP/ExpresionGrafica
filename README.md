@@ -52,10 +52,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Diseño de piezas SolidWorks</td>
 	</tr>
 	<tr>
-		<td>16/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Tolerancias</td>
+		<td>16/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Vistas auxiliares y de corte SolidWorks</td>
 	</tr>
 	<tr>
-		<td>23/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Vistas auxiliares y de corte</td>
+		<td>23/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Tolerancias</td>
 	</tr>
 	<tr>
 		<td>30/09/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
@@ -130,10 +130,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>13/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Diseño de piezas SolidWorks</td>
 	</tr>
 	<tr>
-		<td>20/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Tolerancias</td>
+		<td>20/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Vistas auxiliares y de corte SolidWorks</td>
 	</tr>
 	<tr>
-		<td>27/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Vistas auxiliares y de corte</td>
+		<td>27/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Tolerancias</td>
 	</tr>
 	<tr>
 		<td>04/10/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
