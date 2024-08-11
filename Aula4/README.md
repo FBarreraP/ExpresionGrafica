@@ -1,4 +1,4 @@
-<h1>Aula 5</h1>
+<h1>Aula 4</h1>
 
 Esta clase consiste en analizar un objeto con proyección isométrica en las diferentes vistas teniendo en cuenta la normatividad ISO-A e ISO-E; así como el acotado en las diferentes vistas.
 
@@ -47,6 +47,12 @@ Proyección de Tercer Ángulo (ISO A): Representación ortográfica en la que el
 ![Ejemplo](Imagenes/image-11.png)
 
 ![Características ISO A](Imagenes/image-12.png)
+
+<h3>Vistas ISO E a Isométrico</h3>
+
+![Vistas a Isométrico](Imagenes/image-31.png)
+
+Fuente: https://dibujafacil.com/como-dibujar/como-dibujar-en-perspectiva-isometrica-paso-a-paso/
 
 <h2>Acotado (NTC 1960)</h2>
 
@@ -124,3 +130,7 @@ Dibujar las vistas (ISO A) del solido a escala 1:1 (dimensiones en mm) en una pl
 ![Ejercicio 1](Imagenes/image-30.png)
 
 Fuente: Germán Vargas, presentación Manejo de instrumentos, 2019
+
+Dibujar el solido en proyección isométrica a escala 1:1 a partir de las vistas (ISO E) en una plancha formato A4 (vertical) con manejo de instrumentos con su respectivo rotulo en letra técnica.
+
+![Ejercicio 2](Imagenes/image-32.png)
