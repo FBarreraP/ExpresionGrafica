@@ -29,7 +29,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>05/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Representaciones gráficas de objetos y proyecciones</td>
 	</tr>
 	<tr>
-		<td>12/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Vistas ISO A e ISO E</td>
+		<td>12/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Vistas ISO A e ISO E y acotado</td>
 	</tr>
 	<tr>
 		<td>19/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>FESTIVO</td>
@@ -49,7 +49,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Escalas y acotado</td>
+		<td>09/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Diseño de piezas SolidWorks</td>
 	</tr>
 	<tr>
 		<td>16/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Tolerancias</td>
@@ -107,7 +107,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>09/08/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Representaciones gráficas de objetos y proyecciones</td>
 	</tr>
 	<tr>
-		<td>16/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Vistas ISO A e ISO E</td>
+		<td>16/08/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Vistas ISO A e ISO E y acotado</td>
 	</tr>
 	<tr>
 		<td>23/08/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Parcial primer corte</td>
@@ -127,7 +127,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>06/09/2024</td> <td>2</td> <td>7</td> <td>7</td> <td>Socialización de proyecto</td>
 	</tr>
 	<tr>
-		<td>13/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Escalas y acotado</td>
+		<td>13/09/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Diseño de piezas SolidWorks</td>
 	</tr>
 	<tr>
 		<td>20/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Tolerancias</td>
