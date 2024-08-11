@@ -1,184 +1,63 @@
-<h1>Aula 2</h1>
+<h1>Aula 3</h1>
 
-Esta clase consiste en comprender los conceptos básicos del curso, tales como: boceto, croquis, plano, normas, formatos, rótulos, letra técnica y escalas.
+Esta clase consiste en aprender a utilizar los instrumentos y también a conocer los diferentes tipos de líneas y la construcción de figuras geométricas.
 
-<h2>INTRODUCCIÓN A EXPRESIÓN GRÁFICA</h2>
+<h2>Manejo de instrumentos, líneas y construcción de figuras geométricas</h2>
 
-La expresión gráfica permite representar objetos detallando las características de los mismos (forma, tamaño, grosores, entre otros). Algunos tipos de dibujos más utilizados son Boceto, Croquis y Plano.
+<h3>Tipos de minas</h3>
 
-![Boceto, croquis y plano](Imagenes/image.png)
+![Minas1](Imagenes/image.png)
 
-Fuente: http://tec.amordedioscadiz.org/tec2/tipos_de_dibujos.html 
+Mina dura (H) “hard” : Los lápices de grafito que llevan una H son de rastro suave, de un gris claro a un gris medio. A mayor número, mayor dureza.  Van desde H hasta 9H
 
-<h3>Normas</h3>
+Los trazos realizados con estos lápices se pueden borrar fácilmente, se recomienda un trazo suave.
 
-Las normas son el conjunto de reglas como requisito indispensable para el proceso (diseño, desarrollo, fabricación y calidad) de un producto y/o servicio; las cuales se establecen en un documento aprobado por un organismo de Normalización, con el fin de estandarizar cada detalle del proceso.
+Mina Blanda (B) “Black”: Los lápices de grafito con la letra B tienen una mina más blanda. Pueden llegar a producir negros muy intensos. Normalmente sus graduaciones van desde el B al 9B.  
 
-Las normas son identificadas generalmente por siglas del Organismo que lo apruebe: 
+Se usa para crear todo tipo de sombras. Los trazos son difíciles de borrar, y la mina tiene un desgaste rápido
 
-<ul>
-	<li>ISO: International Organization for Standarization</li>
-    <li>EN: Norma europea Organismo de Normalización Europeo: CEN, CENELEC, ETSI</li>
-    <li>UNE: Una norma española de AENOR</li>
-    <li>NTC: Norma Técnica Colombiana</li>
-    <li>ICONTEC: Instituto Colombiano de Normas Técnicas y Certificación</li>
-</ul>
+![Minas2](Imagenes/image-1.png)
 
-<img src="https://image3.slideserve.com/5535840/normas-t-cnicas-colombianas-ntc1-l.jpg" alt="normas NTC" caption="Hola"/>
-Fuente: https://image3.slideserve.com/5535840/normas-t-cnicas-colombianas-ntc1-l.jpg
+![Afilado de lápiz](Imagenes/image-2.png)
 
-<h3>Formatos (ISO 5457)</h3>
+![Afilado de lápiz 2](Imagenes/image-3.png)
 
-Los formatos definen el tamaño del papel y tienen diferentes series (A, B o C) según la norma ISO. La principal justificación de los diferentes formatos es desperdiciar el mínimo espacio posible.
+<h3>Instrumentos</h3>
 
-<img src="https://mvblog.me/wp-content/uploads/2012/04/formatoserieA.jpg" alt="Formatos" caption="Hola"/>
-Fuente: https://mvblog.me/wp-content/uploads/2012/04/formatoserieA.jpg
+![Reglas](Imagenes/image-4.png)
 
+![Manejo de escuadras](Imagenes/image-5.png)
 
-El rotulo se debe colocar en la posición inferior derecha del formato, teniendo en cuenta que la dirección de este debe ser acorde a la del dibujo.
+![Regla T](Imagenes/image-6.png)
 
-<img src="https://iessantabarbara.es/departamentos/fisica/tecnologia/webquest/cotas/Refuerzo/dibujos/nor5.GIF" alt="Rótulos" caption="Hola"/>
-Fuente: https://iessantabarbara.es/departamentos/fisica/tecnologia/webquest/cotas/Refuerzo/dibujos/nor5.GIF
+![Ángulos](Imagenes/image-7.png)
 
+![Manejo de escuadras](Imagenes/image-8.png)
 
-<img src="http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos/image001.png" alt="Rótulo_Despiece" caption="Hola"/>
-Fuente: http://dibujotecnico.ramondelaguila.com/normalizacion/casillero_archivos/image001.png
+![Manejo de escuadras 2](Imagenes/image-9.png)
 
-<h3>Rótulo (NTC 1914)</h3>
+![Manejo de escuadras 3](Imagenes/image-10.png)
 
-El rotulo debe contener uno o más rectángulos adyacentes, los cuales pueden estar subdivididos en cajas para la inserción de información específica. La información debe agruparse en:
+![Manejo de escuadras 4](Imagenes/image-11.png)
 
-- Zona de identificación: Contiene el número de registro o identificación (a), el titulo del dibujo (b) y el nombre del propietario legal del dibujo (c)
+![Transportador](Imagenes/image-12.png)
 
-![Rótulos](Imagenes/image-1.png)
+![Compás](Imagenes/image-14.png)
 
-Fuente: https://es.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
+<h3>Líneas</h3>
 
-- Zona de información adicional:
-    1. Ítems indicativos: Para evitar errores de interpretación del método de presentación. Se debe indicar el método de proyección, la escala principal, la unidad de dimensión lineal.
-    2. Ítems técnicos: Incluye la textura de las superficies, tolerancias geométricas, valores de tolerancias generales y otras normas de este campo.
-    3. Ítems administrativos: Tamaño de papel, fecha de primera emisión del dibujo, símbolo de revisión, fecha y otra información administrativa.
+Las líneas son una sucesión de puntos entre dos extremos, con diferentes formas, así como: curvas, rectas horizontales y verticales, entre otras; las cuales sirven para asociar, unir, rodear, soportar o cortar superficies de objetos 2D y 3D.
 
+<img src="https://es-static.z-dn.net/files/da7/e66a2a18e443a7fcf09b21f4ca73791e.jpg" alt="líneas" caption="Hola"/>
 
-<h3>Plegado de formatos (NTC 1687)</h3>
+Fuente: https://es-static.z-dn.net/files/da7/e66a2a18e443a7fcf09b21f4ca73791e.jpg
 
-El plegado de formatos consiste en doblar por secciones hasta igualar el tamaño de los formatos a archivar en bolsa o en cuaderno; comúnmente es hasta A4. El recuadro del dibujo es a=10mm para formatos A0, A1 y A2, y a=5mm para formatos A3, A4 y A5
+<h4>Líneas rectas</h4>
 
-![plegado](Imagenes/image-2.png)
+![Rectas](Imagenes/image-16.png)
 
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
+![Líneas2](Imagenes/image-17.png)
 
-![Margenesformato](Imagenes/image-3.png)
+<h4>figuras geométricas</h4>
 
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
-
-<h4>Plegado modular (archivar en bolsa)</h4>
-
-![plegado modular](Imagenes/image-4.png)
-
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
-
-<h4>Encuadernación (archivar en carpeta)</h4>
-
-<h5>Formato A0</h5>
-
-- Formato A0 (horizontal)
-
-![plegado A0 horizontal](Imagenes/image-5.png)
-
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
-
-- Formato A0 (vertical)
-
-![plegado A0 vertical](Imagenes/image-6.png)
-
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
-
-<h5>Formato A1</h5>
-
-- Formato A1 (horizontal)
-
-![plegado A1 horizontal](Imagenes/image-7.png)
-
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
-
-- Formato A1 (vertical)
-
-![plegado A1 vertical](Imagenes/image-8.png)
-
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
-
-<h5>Formato A2</h5>
-
-- Formato A2 (horizontal)
-
-![plegado A2 horizontal](Imagenes/image-9.png)
-
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
-
-- Formato A2 (vertical)
-
-![plegado A2 vertical](Imagenes/image-10.png)
-
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
-
-<h5>Formato A3</h5>
-
-- Formato A3 (horizontal)
-
-![plegado A3 horizontal](Imagenes/image-11.png)
-
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
-
-- Formato A3 (vertical)
-
-![plegado A3 vertical](Imagenes/image-12.png)
-
-Fuente: https://pt.slideshare.net/profesoredgard/normas-icontec-para-dibujo-tecnico
-
-<h3>Letra técnica (NTC 2527 Y NTC 2528)</h3>
-
-La letra técnica es una caligrafía técnica que realza la calidad (precisión, claridad y limpieza) del trabajo en general, siendo que las letras y los números deben trazarse de acuerdo con las técnicas.
-
-Toda escritura normalizada debe ser:
-
-<ul>
-    <li>Legible (claridad y lectura rápida)</li>
-    <li>Homogénea (caracteres reglados en forma, tamaño, etc.)</li>
-    <li>Reproducible  (apta para producirse por diferentes medios)</li>
-    <li>Deben distinguirse con claridad todos los caracteres.</li>
-    <li>La altura en proporción con papel y dibujo.</li>
-    <li>Mayúsculas para titulares y encabezamientos.</li>
-</ul>
-<img src="https://3.bp.blogspot.com/-rcbVMxgvgs4/UXGjuFMDAdI/AAAAAAAAAI0/kHz2ZFHj8t4/s1600/ima1.jpg" alt="Texto_Letra_Técnica" caption="Hola"/>
-Fuente: https://3.bp.blogspot.com/-rcbVMxgvgs4/UXGjuFMDAdI/AAAAAAAAAI0/kHz2ZFHj8t4/s1600/ima1.jpg
-
-
-![Letra técnica](Imagenes/image-14.png)
-Fuente: https://es-static.z-dn.net/files/ddf/c6ad64c8ad3d4f91426e766008bd3208.jpg
-
-<!--
-<h3>Escalas</h3>
-
-La escala es la relación entre el tamaño del objeto real y el tamaño del objeto dibujado, la cual se debe escribir en el rotulo del formato.
-
-<ul>
-    <li><b>Escala natural:</b> El tamaño del objeto real y el tamaño del objeto dibujado son iguales (1:1)</li>
-    <li><b>Escala de reducción:</b> El tamaño del objeto real es muy grande y por tanto, el tamaño del objeto dibujado debe reducirse (ej: 1:2)</li>
-    <li><b>Escala de ampliación:</b> El tamaño del objeto real es muy pequeño y por tanto, el tamaño del objeto dibujado debe ampliarse (ej: 2:1)</li>
-</ul>
-
-$$𝐸𝑠𝑐𝑎𝑙𝑎=\frac{𝑇𝑎𝑚𝑎ñ𝑜D𝑒𝑙O𝑏𝑗𝑒𝑡𝑜D𝑖𝑏𝑢𝑗𝑎𝑑𝑜}{𝑇𝑎𝑚𝑎ñ𝑜D𝑒𝑙O𝑏𝑗𝑒𝑡𝑜R𝑒𝑎𝑙}$$
-
-![Escalas](Imagenes/image-13.png)
-
-Fuente: https://www.picuino.com/es/_images/dibujo-escalas.png
-
-<h2>Escalas normalizadas</h2>
-
-Las siguiente escalas normalizadas son las más utilizadas en los planos técnicos con el objetivo de facilitar las lecturas. Sin embargo, en algunas aplicaciones, como en Ingeniería Civil (construcción de edificios) se utilizan otras escalas intermedias (1:50 o 1:20).
-
-![Escalas normalizadas](Imagenes/image-15.png)
-
-Fuente: https://www.picuino.com/es/dibujo-escalas.html
--->
+![figuras geométricas](Imagenes/image-18.png)
