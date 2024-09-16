@@ -38,10 +38,6 @@ Fuente: https://dibujotecnico.com/cortes-secciones-y-roturas/
 
 Fuente: https://dibujotecnico.com/cortes-secciones-y-roturas/
 
-<h3></h3>
-
-Fuente: https://dibujotecnico.com/cortes-secciones-y-roturas/
-
 <h3>Ejercicio 1</h3>
 
 ![Ejercicio1](image.png)

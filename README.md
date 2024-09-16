@@ -55,7 +55,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>16/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Vistas auxiliares y de corte SolidWorks</td>
 	</tr>
 	<tr>
-		<td>23/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Tolerancias</td>
+		<td>23/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Ensamblaje de elementos y simulación SolidWorks</td>
 	</tr>
 	<tr>
 		<td>30/09/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
@@ -75,10 +75,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte<br>Uniones</td>
+		<td>21/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte<br>Tolerancias y uniones</td>
 	</tr>
 	<tr>
-		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Ensamblaje de elementos y simulación SolidWorks</td>
+		<td>28/10/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de proyecto</td>
 	</tr>
 	<tr>
 		<td>04/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
@@ -133,7 +133,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>20/09/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Vistas auxiliares y de corte SolidWorks</td>
 	</tr>
 	<tr>
-		<td>27/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Tolerancias</td>
+		<td>27/09/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Ensamblaje de elementos y simulación SolidWorks</td>
 	</tr>
 	<tr>
 		<td>04/10/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
@@ -153,10 +153,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>25/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Uniones</td>
+		<td>25/10/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Tolerancias y uniones</td>
 	</tr>
 	<tr>
-		<td>01/11/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Ensamblaje de elementos y simulación SolidWorks</td>
+		<td>01/11/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de proyecto</td>
 	</tr>
 	<tr>
 		<td>08/11/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de proyecto</td>
