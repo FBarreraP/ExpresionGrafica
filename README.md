@@ -307,13 +307,27 @@ Nota del curso = (0.3)*NotaCorte1 + (0.3)*NotaCorte2 + (0.4)*NotaCorte3
 	<li> Computador 💻</li>
 	<li> SolidWorks</li>
 	<li> Escuadras de 45 y 60, regla y transportador</li>
-	<img src="https://fasaworld.com/blog/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTEyTDE3ZXhtN0wuanBn" alt="Escuadras" caption="Hola"/>
+	<div align="center">
+	<img src="image.png" alt="Kit dibujo técnico"/>
+	<br>
+	<figcaption>Fuente: https://panafargo.com/producto/kit-geometrico-con-compas-y-transportador/</figcaption>
+	</div>
 	<li> Compás</li>
-	<img src="https://vpiera.com/131294-large_default/faber-castell-compas-de-ajuste-rapido-con-alargadera-extensible-sin-pieza-de-tinta-en-estuche-de-plastico-.jpg" alt="compás" caption="Hola"/>
+	<div align="center">
+	<img src="image-1.png" alt="Compás"/>
+	<br>
+	<figcaption>Fuente: https://vpiera.com/es/faber-castell-compas-de-ajuste-rapido-con-alargadera-extensible-sin-pieza-de-tinta-en-estuche-de-plastico-</figcaption>
+	</div>
 	<li> Lápiz 2H y HB</li>
-	<img src="https://falabella.scene7.com/is/image/FalabellaCO/gsc_122920232_3475133_2?wid=800&hei=800&qlt=70" alt="lápices" caption="Hola"/>
-	<li> Bloc DIN A4 sin rótulo</li>
-	<img src="https://artesco.com.co/wp-content/uploads/2023/07/Block-Din-A4-Blanco-Nessan-057-0010-000055.png" alt="bloc din a4" caption="Hola"/>
-
-
+	<div align="center">
+	<img src="image-2.png" alt="Lápicez 2H y HB"/>
+	<br>
+	<figcaption>Fuente: https://articulo.mercadolibre.com.co/MCO-595466499-lapiz-graduado-x-3-unds-6b-hb-2h-faber-castell-9000-_JM</figcaption>
+	</div>
+	<li> Block DIN A4 sin rótulo</li>
+	<div align="center">
+	<img src="image-3.png" alt="Block A4"/>
+	<br>
+	<figcaption>Fuente: https://paperbueno.com/producto/unidad_plancha-oficio-papel-bond-1-8-sin-rotulo/</figcaption>
+	</div>
 </ul>
