@@ -38,7 +38,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>24/02/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Parcial primer corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>03/03/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte</td>
+		<td>03/03/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Retroalimentación del parcial primer corte<br>Entrega de notas primer corte</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 </table>
 
@@ -67,7 +67,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>14/04/2025</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 	<tr>
-		<td>21/04/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte<br><br>Socialización de proyecto</td>
+		<td>21/04/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte<br>Socialización de proyecto</td>
 	</tr>
 </table>
 
@@ -78,16 +78,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>28/04/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de proyecto</td>
+		<td>28/04/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de taller y proyecto</td>
 	</tr>
 	<tr>
-		<td>05/05/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de proyecto</td>
+		<td>05/05/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de taller y proyecto</td>
 	</tr>
 	<tr>
-		<td>12/05/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de proyecto</td>
+		<td>12/05/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de taller y proyecto</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>19/05/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Entrega de proyecto y entrega de notas finales</td>
+		<td>19/05/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Entregas de taller y proyecto<br>Entrega de notas finales</td>
 	</tr>
 </table>
 
@@ -113,7 +113,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>21/02/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>Parcial primer corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>28/02/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte</td>
+		<td>28/02/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Retroalimentación del parcial primer corte<br>Entrega de notas primer corte</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 </table>
 
@@ -139,10 +139,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>04/04/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>11/11/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
+		<td>11/04/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
 	</tr>
 	<tr>
-		<td>18/11/2025</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
+		<td>18/04/2025</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 </table>
 
@@ -153,19 +153,19 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>25/10/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización de proyecto</td>
+		<td>25/04/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Socialización de proyecto</td>
 	</tr>
 	<tr>
-		<td>01/11/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de proyecto</td>
+		<td>02/05/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de taller y proyecto</td>
 	</tr>
 	<tr>
-		<td>08/11/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de proyecto</td>
+		<td>09/05/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de taller y proyecto</td>
 	</tr>
 	<tr>
-		<td>15/11/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de proyecto</td>
+		<td>16/05/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de taller y proyecto</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>22/11/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Entrega de proyecto y entrega de notas finales</td>
+		<td>23/05/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Entregas de taller y proyecto<br>Entrega de notas finales</td>
 	</tr>
 </table>
 
@@ -185,35 +185,35 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>26/08/2025</td>
+		<td>24/02/2025</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>26/08/2025</td>
+		<td>17/02/2025</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>30/09/2025</td>
+		<td>07/04/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>30/09/2025<br></td>
+		<td>21/04/2025<br></td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (40%)</td>
 		<td>Proyecto</td>
 		<td>24%</td>
-		<td>18/11/2025</td>
+		<td>19/05/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>16%</td>
-		<td>18/11/2025</td>
+		<td>19/05/2025</td>
 	</tr>
 </table>
 
@@ -231,35 +231,35 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>23/08/2025</td>
+		<td>21/02/2025</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>23/08/2025</td>
+		<td>28/02/2025</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>04/10/2025</td>
+		<td>04/04/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>04/10/2025<br></td>
+		<td>28/03/2025<br></td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (40%)</td>
 		<td>Proyecto</td>
 		<td>24%</td>
-		<td>22/11/2025</td>
+		<td>23/05/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>16%</td>
-		<td>22/11/2025</td>
+		<td>23/05/2025</td>
 	</tr>
 </table>
 
