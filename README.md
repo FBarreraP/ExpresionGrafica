@@ -312,12 +312,6 @@ Nota del curso = (0.3)*NotaCorte1 + (0.3)*NotaCorte2 + (0.4)*NotaCorte3
 	<br>
 	<figcaption>Fuente: https://panafargo.com/producto/kit-geometrico-con-compas-y-transportador/</figcaption>
 	</div>
-	<li> Compás</li>
-	<div align="center">
-	<img src="image-1.png" alt="Compás"/>
-	<br>
-	<figcaption>Fuente: https://vpiera.com/es/faber-castell-compas-de-ajuste-rapido-con-alargadera-extensible-sin-pieza-de-tinta-en-estuche-de-plastico-</figcaption>
-	</div>
 	<li> Lápiz 2H y HB</li>
 	<div align="center">
 	<img src="image-2.png" alt="Lápicez 2H y HB"/>
