@@ -58,7 +58,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>22/09/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>Parcial segundo corte</td>
 	</tr>
 	<tr>
-		<td>29/09/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte<br>Socialización de proyecto</td>
+		<td>29/09/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
 	</tr>
 	<tr>
 		<td>06/10/2025</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
@@ -173,7 +173,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
 
-<h4>Tercer corte AMB A</h4>
+<h4>AMB A</h4>
 
 <table>
 	<tr>
@@ -187,39 +187,39 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>24/02/2025</td>
+		<td>25/08/2025</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>17/02/2025</td>
+		<td>01/09/2025</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>07/04/2025</td>
+		<td>22/09/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>21/04/2025<br></td>
+		<td>29/09/2025<br></td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (40%)</td>
 		<td>Proyecto</td>
 		<td>24%</td>
-		<td>19/05/2025</td>
+		<td>10/11/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>16%</td>
-		<td>19/05/2025</td>
+		<td>10/11/2025</td>
 	</tr>
 </table>
 
-<h4>Tercer corte AMB B</h4>
+<h4>AMB B</h4>
 
 <table>
 	<tr>
@@ -233,35 +233,35 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>21/02/2025</td>
+		<td>22/08/2025</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>28/02/2025</td>
+		<td>29/08/2025</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>04/04/2025</td>
+		<td>03/10/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>28/03/2025<br></td>
+		<td>17/10/2025<br></td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (40%)</td>
 		<td>Proyecto</td>
 		<td>24%</td>
-		<td>23/05/2025</td>
+		<td>21/11/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>16%</td>
-		<td>23/05/2025</td>
+		<td>21/11/2025</td>
 	</tr>
 </table>
 
