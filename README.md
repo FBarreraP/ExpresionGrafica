@@ -1,7 +1,7 @@
 <h1 align="center">Profesor: MSc. Fabián Barrera Prieto 👨‍🏫<br>
 Materia: Expresión gráfica ✏️📐<br>
 Universidad: UMNG 🏫<br>
-Año: 2025 📅</h1><br>
+Año: 2026 📅</h1><br>
 
 Expresión gráfica está enfocada al diseño de planos en 3D a mano alzada y en software de diseño asistido por computador (CAD)
 
@@ -20,25 +20,22 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>21/07/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia e Introducción a expresión gráfica</td>
+		<td>26/01/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia e Introducción a expresión gráfica</td>
 	</tr>
 	<tr>
-		<td>28/07/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Manejo de instrumentos, líneas y construcción de figuras geométricas</td>
+		<td>02/02/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Manejo de instrumentos, líneas y construcción de figuras geométricas</td>
 	</tr>
 	<tr>
-		<td>04/08/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Representaciones gráficas de objetos y proyecciones</td>
+		<td>09/02/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Representaciones gráficas de objetos y proyecciones</td>
 	</tr>
 	<tr>
-		<td>11/08/2025</td> <td>2</td> <td>4</td> <td>4</td> <td>Vistas ISO A e ISO E y acotado</td>
+		<td>16/02/2026</td> <td>2</td> <td>4</td> <td>4</td> <td>Vistas ISO A e ISO E y acotado</td>
 	</tr>
 	<tr>
-		<td>18/08/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>FESTIVO</td>
-	</tr>
-	<tr>
-		<td>25/08/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Parcial primer corte</td>
+		<td>23/02/2026</td> <td>2</td> <td>5</td> <td>5</td> <td>Parcial primer corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>01/09/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Retroalimentación del parcial primer corte<br>Entrega de notas primer corte</td>
+		<td>02/03/2026</td> <td>2</td> <td>6</td> <td>6</td> <td>Retroalimentación del parcial primer corte<br>Entrega de notas primer corte</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 </table>
 
@@ -49,22 +46,25 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>08/09/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Diseño de piezas SolidWorks</td>
+		<td>09/03/2026</td> <td>2</td> <td>7</td> <td>7</td> <td>Diseño de piezas SolidWorks</td>
 	</tr>
 	<tr>
-		<td>15/09/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Vistas auxiliares y de corte SolidWorks</td>
+		<td>16/03/2026</td> <td>2</td> <td>8</td> <td>8</td> <td>Vistas auxiliares y de corte SolidWorks</td>
 	</tr>
 	<tr>
-		<td>22/09/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>Parcial segundo corte</td>
+		<td>23/03/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>29/09/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
+		<td>30/03/2026</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
-		<td>06/10/2025</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
+		<td>06/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo de taller</td>
+	</tr>
+	<tr>
+		<td>13/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>13/10/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>FESTIVO</td>
+		<td>20/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
@@ -76,19 +76,19 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>20/10/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Ensamblaje de elementos y simulación SolidWorks<br>Socialización de proyecto</td>
+		<td>27/04/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>Ensamblaje de elementos y simulación SolidWorks<br>Socialización de proyecto</td>
 	</tr>
 	<tr>
-		<td>27/10/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de taller y proyecto</td>
+		<td>04/05/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de taller y proyecto</td>
 	</tr>
 	<tr>
-		<td>03/11/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>FESTIVO</td>
+		<td>11/05/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de taller y proyecto</td>
 	</tr>
 	<tr>
-		<td>10/11/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Entregas de taller y proyecto<br>Entrega de notas finales</td>
+		<td>18/05/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>17/11/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>FESTIVO</td>
+		<td>25/05/2026</td> <td>2</td> <td>17</td> <td>17</td> <td>Entregas de taller y proyecto<br>Entrega de notas finales</td>
 	</tr>
 </table>
 
@@ -99,22 +99,22 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>25/07/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia e Introducción a expresión gráfica</td>
+		<td>30/01/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia e Introducción a expresión gráfica</td>
 	</tr>
 	<tr>
-		<td>01/08/2025</td> <td>2</td> <td>2</td> <td>2</td> <td>Manejo de instrumentos, líneas y construcción de figuras geométricas</td>
+		<td>06/02/2026</td> <td>2</td> <td>2</td> <td>2</td> <td>Manejo de instrumentos, líneas y construcción de figuras geométricas</td>
 	</tr>
 	<tr>
-		<td>08/08/2025</td> <td>2</td> <td>3</td> <td>3</td> <td>Representaciones gráficas de objetos y proyecciones</td>
+		<td>13/02/2026</td> <td>2</td> <td>3</td> <td>3</td> <td>Representaciones gráficas de objetos y proyecciones</td>
 	</tr>
 	<tr>
-		<td>15/08/2025</td> <td>2</td> <td>4</td> <td>4</td> <td>Vistas ISO A e ISO E y acotado</td>
+		<td>20/02/2026</td> <td>2</td> <td>4</td> <td>4</td> <td>Vistas ISO A e ISO E y acotado</td>
 	</tr>
 	<tr>
-		<td>22/08/2025</td> <td>2</td> <td>5</td> <td>5</td> <td>Parcial primer corte</td>
+		<td>27/02/2026</td> <td>2</td> <td>5</td> <td>5</td> <td>Parcial primer corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>29/08/2025</td> <td>2</td> <td>6</td> <td>6</td> <td>Retroalimentación del parcial primer corte<br>Entrega de notas primer corte</td>
+		<td>06/03/2026</td> <td>2</td> <td>6</td> <td>6</td> <td>Retroalimentación del parcial primer corte<br>Entrega de notas primer corte</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 </table>
 
@@ -125,27 +125,27 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>05/09/2025</td> <td>2</td> <td>7</td> <td>7</td> <td>Diseño de piezas SolidWorks</td>
+		<td>13/03/2026</td> <td>2</td> <td>7</td> <td>7</td> <td>Diseño de piezas SolidWorks</td>
 	</tr>
 	<tr>
-		<td>12/09/2025</td> <td>2</td> <td>8</td> <td>8</td> <td>Vistas auxiliares y de corte SolidWorks</td>
+		<td>20/03/2026</td> <td>2</td> <td>8</td> <td>8</td> <td>Vistas auxiliares y de corte SolidWorks</td>
 	</tr>
 	<tr>
-		<td>19/09/2025</td> <td>2</td> <td>9</td> <td>9</td> <td>Ensamblaje de elementos y simulación SolidWorks</td>
+		<td>27/03/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>26/09/2025</td> <td>2</td> <td>10</td> <td>10</td> <td>Entrega de talleres</td>
+		<td>03/04/2026</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
 	<tr>
-		<td>03/10/2025</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
+		<td>10/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo de taller</td>
+	</tr>
+	<tr>
+		<td>17/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>10/10/2025</td> <td></td> <td></td> <td></td> <td>SEMANA DE RECESO</td>
+		<td>24/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
 	</tr><!--última semana de registro de notas del primer corte-->
-	<tr>
-		<td>17/10/2025</td> <td>2</td> <td>12</td> <td>12</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
-	</tr>
-	
+
 </table>
 
 <h4>Tercer corte AMB B</h4>
@@ -155,19 +155,19 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>24/10/2025</td> <td>2</td> <td>13</td> <td>13</td> <td>Ensamblaje de elementos y simulación SolidWorks<br>Socialización de proyecto</td>
+		<td>01/05/2026</td> <td>2</td> <td>13</td> <td>13</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>31/10/2025</td> <td>2</td> <td>14</td> <td>14</td> <td>Desarrollo de taller y proyecto</td>
+		<td>08/05/2026</td> <td>2</td> <td>14</td> <td>14</td> <td>Ensamblaje de elementos y simulación SolidWorks<br>Socialización de proyecto</td>
 	</tr>
 	<tr>
-		<td>07/11/2025</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de taller y proyecto</td>
+		<td>15/05/2026</td> <td>2</td> <td>15</td> <td>15</td> <td>Desarrollo de taller y proyecto</td>
 	</tr>
 	<tr>
-		<td>14/11/2025</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de taller y proyecto</td>
+		<td>22/05/2026</td> <td>2</td> <td>16</td> <td>16</td> <td>Desarrollo de taller y proyecto</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>21/11/2025</td> <td>2</td> <td>17</td> <td>17</td> <td>Entregas de taller y proyecto<br>Entrega de notas finales</td>
+		<td>29/05/2026</td> <td>2</td> <td>17</td> <td>17</td> <td>Entregas de taller y proyecto<br>Entrega de notas finales</td>
 	</tr>
 </table>
 
@@ -187,35 +187,35 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>25/08/2025</td>
+		<td>25/08/2026</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>01/09/2025</td>
+		<td>01/09/2026</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>22/09/2025</td>
+		<td>22/09/2026</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>29/09/2025<br></td>
+		<td>29/09/2026<br></td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (40%)</td>
 		<td>Proyecto</td>
 		<td>24%</td>
-		<td>10/11/2025</td>
+		<td>10/11/2026</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>16%</td>
-		<td>10/11/2025</td>
+		<td>10/11/2026</td>
 	</tr>
 </table>
 
@@ -233,35 +233,35 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>22/08/2025</td>
+		<td>22/08/2026</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>29/08/2025</td>
+		<td>29/08/2026</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>12%</td>
-		<td>03/10/2025</td>
+		<td>03/10/2026</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>18%</td>
-		<td>17/10/2025<br></td>
+		<td>17/10/2026<br></td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (40%)</td>
 		<td>Proyecto</td>
 		<td>24%</td>
-		<td>21/11/2025</td>
+		<td>21/11/2026</td>
 	</tr>
 	<tr>
 		<td>Quices y/o talleres</td>
 		<td>16%</td>
-		<td>21/11/2025</td>
+		<td>21/11/2026</td>
 	</tr>
 </table>
 
