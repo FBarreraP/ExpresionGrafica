@@ -131,7 +131,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>20/03/2026</td> <td>2</td> <td>8</td> <td>8</td> <td>Vistas auxiliares y de corte SolidWorks</td>
 	</tr>
 	<tr>
-		<td>27/03/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>FESTIVO</td>
+		<td>27/03/2026</td> <td>2</td> <td>9</td> <td>9</td> <td>Desarrollo de taller</td>
 	</tr>
 	<tr>
 		<td>03/04/2026</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
