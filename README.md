@@ -61,10 +61,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>06/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo de taller</td>
 	</tr>
 	<tr>
-		<td>13/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Parcial segundo corte</td>
+		<td>13/04/2026</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>20/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
+		<td>20/04/2026</td> <td>2</td> <td>12</td> <td>12</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
@@ -140,10 +140,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>10/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Desarrollo de taller</td>
 	</tr>
 	<tr>
-		<td>17/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Parcial segundo corte</td>
+		<td>17/04/2026</td> <td>2</td> <td>13</td> <td>11</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>24/04/2026</td> <td>2</td> <td>10</td> <td>10</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
+		<td>24/04/2026</td> <td>2</td> <td>13</td> <td>12</td> <td>Retroalimentación del parcial segundo corte<br>Entrega de notas segundo corte</td>
 	</tr><!--última semana de registro de notas del primer corte-->
 
 </table>
