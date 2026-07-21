@@ -183,22 +183,22 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Primer (30%)</td> <td>Parcial</td> <td>12%</td> <td>23/02/2026</td> <td rowspan="7">Presencial</td>
+		<td rowspan="2">Primer (30%)</td> <td>Parcial</td> <td>12%</td> <td>24/08/2026</td> <td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
-		<td>Quices y/o talleres</td> <td>18%</td> <td>02/03/2026</td> 
+		<td>Quices y/o talleres</td> <td>18%</td> <td>31/08/2026</td> 
 	</tr>
 	<tr>
-		<td rowspan="2">Segundo (30%)</td> <td>Parcial</td> <td>12%</td> <td>13/04/2026</td>
+		<td rowspan="2">Segundo (30%)</td> <td>Parcial</td> <td>12%</td> <td>28/09/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o talleres</td> <td>18%</td> <td>20/04/2026<br></td>
+		<td>Quices y/o talleres</td> <td>18%</td> <td>19/10/2026<br></td>
 	</tr>
 	<tr>
-		<td rowspan="3">Tercer (40%)</td> <td>Proyecto</td> <td>24%</td> <td>25/05/2026</td>
+		<td rowspan="3">Tercer (40%)</td> <td>Proyecto</td> <td>24%</td> <td>23/11/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o talleres</td> <td>16%</td> <td>25/05/2026</td>
+		<td>Quices y/o talleres</td> <td>16%</td> <td>23/11/2026</td>
 	</tr>
 </table>
 
@@ -209,22 +209,22 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Primer (30%)</td> <td>Parcial</td> <td>12%</td> <td>27/02/2026</td> <td rowspan="7">Presencial</td>
+		<td rowspan="2">Primer (30%)</td> <td>Parcial</td> <td>12%</td> <td>21/08/2026</td> <td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
-		<td>Quices y/o talleres</td> <td>18%</td> <td>06/03/2026</td> 
+		<td>Quices y/o talleres</td> <td>18%</td> <td>28/08/2026</td> 
 	</tr>
 	<tr>
-		<td rowspan="2">Segundo (30%)</td> <td>Parcial</td> <td>12%</td> <td>17/04/2026</td>
+		<td rowspan="2">Segundo (30%)</td> <td>Parcial</td> <td>12%</td> <td>02/10/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o talleres</td> <td>18%</td> <td>24/04/2026<br></td>
+		<td>Quices y/o talleres</td> <td>18%</td> <td>16/10/2026<br></td>
 	</tr>
 	<tr>
-		<td rowspan="3">Tercer (40%)</td> <td>Proyecto</td> <td>24%</td> <td>29/05/2026</td>
+		<td rowspan="3">Tercer (40%)</td> <td>Proyecto</td> <td>24%</td> <td>20/11/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o talleres</td> <td>16%</td> <td>29/05/2026</td>
+		<td>Quices y/o talleres</td> <td>16%</td> <td>20/11/2026</td>
 	</tr>
 </table>
 
